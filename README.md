@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently pursuing B.tech
+- 🔭 I’m currently pursuing B.tech.
 - 🌱 I’m currently learning MERN stack
 - 💬 Ask me about Python,React,Java,Javascript
 - 📫 How to reach me: anntresa.mec2gmail.com
